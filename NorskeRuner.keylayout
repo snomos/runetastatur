@@ -1851,7 +1851,7 @@
             <when state="specials" output="Ƅ"/>
         </action>
         <action id="a">
-            <when state="none" output="a"/>
+            <when state="none" output="ᛆ"/>
             <when state="acute" output="á"/>
             <when state="breve" output="ă"/>
             <when state="caron" output="ǎ"/>
@@ -1880,7 +1880,7 @@
             <when state="none" next="acute"/>
         </action>
         <action id="b">
-            <when state="none" output="b"/>
+            <when state="none" output="ᛒ"/>
             <when state="dotabove" output="ḃ"/>
             <!-- added -->
             <when state="dotbelow" output="ḅ"/>
@@ -1896,7 +1896,7 @@
             <when state="none" next="breve"/>
         </action>
         <action id="c">
-            <when state="none" output="c"/>
+            <when state="none" output="ᛌ"/>
             <when state="acute" output="ć"/>
             <when state="caron" output="č"/>
             <when state="cedilla" output="ç"/>
@@ -1924,7 +1924,7 @@
             <when state="none" next="commabelow"/>
         </action>
         <action id="d">
-            <when state="none" output="d"/>
+            <when state="none" output="ᛑ"/>
             <when state="caron" output="ď"/>
             <when state="cedilla" output="ḑ"/>
             <!-- added -->
@@ -1959,7 +1959,7 @@
             <!-- added -->
         </action>
         <action id="e">
-            <when state="none" output="e"/>
+            <when state="none" output="ᛂ"/>
             <when state="acute" output="é"/>
             <when state="breve" output="ĕ"/>
             <when state="caron" output="ě"/>
@@ -1991,14 +1991,14 @@
             <!-- added -->
         </action>
         <action id="f">
-            <when state="none" output="f"/>
+            <when state="none" output="ᚠ"/>
             <when state="dotabove" output="ḟ"/>
             <!-- added -->
             <when state="hooked" output="ƒ"/>
             <!-- added -->
         </action>
         <action id="g">
-            <when state="none" output="g"/>
+            <when state="none" output="ᚵ"/>
             <when state="acute" output="ǵ"/>
             <!-- added -->
             <when state="breve" output="ğ"/>
@@ -2020,7 +2020,7 @@
             <when state="none" next="grave"/>
         </action>
         <action id="h">
-            <when state="none" output="h"/>
+            <when state="none" output="ᚼ"/>
             <when state="breve" output="ḫ"/>
             <!-- added -->
             <when state="caron" output="ȟ"/>
@@ -2056,7 +2056,7 @@
             <!-- added -->
         </action>
         <action id="i">
-            <when state="none" output="i"/>
+            <when state="none" output="ᛁ"/>
             <when state="acute" output="í"/>
             <when state="breve" output="ĭ"/>
             <when state="caron" output="ǐ"/>
@@ -2090,7 +2090,7 @@
             <!-- added -->
         </action>
         <action id="j">
-            <when state="none" output="j"/>
+            <when state="none" output="ᛁ"/>
             <when state="caron" output="ǰ"/>
             <!-- added -->
             <when state="circumflex" output="ĵ"/>
@@ -2098,7 +2098,7 @@
             <!-- added -->
         </action>
         <action id="k">
-            <when state="none" output="k"/>
+            <when state="none" output="ᚴ"/>
             <when state="acute" output="ḱ"/>
             <!-- added -->
             <when state="caron" output="ǩ"/>
@@ -2114,7 +2114,7 @@
             <!-- added -->
         </action>
         <action id="l">
-            <when state="none" output="l"/>
+            <when state="none" output="ᛚ"/>
             <when state="acute" output="ĺ"/>
             <when state="caron" output="ľ"/>
             <when state="cedilla" output="ļ"/>
@@ -2130,7 +2130,7 @@
             <!-- added -->
         </action>
         <action id="m">
-            <when state="none" output="m"/>
+            <when state="none" output="ᛘ"/>
             <when state="acute" output="ḿ"/>
             <!-- added -->
             <when state="circumflex" output="m̂"/>
@@ -2150,7 +2150,7 @@
             <!-- added -->
         </action>
         <action id="n">
-            <when state="none" output="n"/>
+            <when state="none" output="ᚿ"/>
             <when state="acute" output="ń"/>
             <when state="caron" output="ň"/>
             <when state="cedilla" output="ņ"/>
@@ -2173,7 +2173,7 @@
             <when state="tilde" output="ñ"/>
         </action>
         <action id="o">
-            <when state="none" output="o"/>
+            <when state="none" output="ᚮ"/>
             <when state="acute" output="ó"/>
             <when state="breve" output="ŏ"/>
             <when state="caron" output="ǒ"/>
@@ -2207,7 +2207,7 @@
             <when state="none" next="ogonek"/>
         </action>
         <action id="p">
-            <when state="none" output="p"/>
+            <when state="none" output="ᛔ"/>
             <when state="acute" output="ṕ"/>
             <!-- added -->
             <when state="dotabove" output="ṗ"/>
@@ -2216,14 +2216,14 @@
             <!-- added -->
         </action>
         <action id="q">
-            <when state="none" output="q"/>
+            <when state="none" output="ᚴ"/>
             <when state="hooked" output="ʠ"/>
             <!-- added -->
             <when state="specials" output="ƣ"/>
             <!-- added -->
         </action>
         <action id="r">
-            <when state="none" output="r"/>
+            <when state="none" output="ᚱ"/>
             <when state="acute" output="ŕ"/>
             <when state="caron" output="ř"/>
             <when state="cedilla" output="ŗ"/>
@@ -2248,7 +2248,7 @@
             <when state="none" next="ringabove"/>
         </action>
         <action id="s">
-            <when state="none" output="s"/>
+            <when state="none" output="ᛋ"/>
             <when state="acute" output="ś"/>
             <when state="caron" output="š"/>
             <when state="cedilla" output="ş"/>
@@ -2274,7 +2274,7 @@
             <!-- added -->
         </action>
         <action id="t">
-            <when state="none" output="t"/>
+            <when state="none" output="ᛐ"/>
             <when state="caron" output="ť"/>
             <when state="cedilla" output="ţ"/>
             <when state="circumflexbelow" output="ṱ"/>
@@ -2301,7 +2301,7 @@
             <!-- added -->
         </action>
         <action id="u">
-            <when state="none" output="u"/>
+            <when state="none" output="ᚢ"/>
             <when state="acute" output="ú"/>
             <when state="breve" output="ŭ"/>
             <when state="caron" output="ǔ"/>
@@ -2337,7 +2337,7 @@
             <!-- added -->
         </action>
         <action id="v">
-            <when state="none" output="v"/>
+            <when state="none" output="ᚡ"/>
             <when state="acute" output="ǘ"/>
             <!-- added -->
             <when state="caron" output="ǚ"/>
@@ -2383,7 +2383,7 @@
             <!-- added -->
         </action>
         <action id="y">
-            <when state="none" output="y"/>
+            <when state="none" output="ᛦ"/>
             <when state="acute" output="ý"/>
             <when state="circumflex" output="ŷ"/>
             <when state="diaeresis" output="ÿ"/>
@@ -2407,7 +2407,7 @@
             <!-- added -->
         </action>
         <action id="z">
-            <when state="none" output="z"/>
+            <when state="none" output="ᛋ"/>
             <when state="acute" output="ź"/>
             <when state="caron" output="ž"/>
             <when state="cedilla" output="z̧"/>
@@ -2446,12 +2446,12 @@
             <when state="acute" output="ǻ"/>
         </action>
         <action id="æ">
-            <when state="none" output="æ"/>
+            <when state="none" output="ᛅ"/>
             <when state="acute" output="ǽ"/>
             <when state="macron" output="ǣ"/>
         </action>
         <action id="ø">
-            <when state="none" output="ø"/>
+            <when state="none" output="ᚯ"/>
             <when state="acute" output="ǿ"/>
         </action>
         <action id="‘">
