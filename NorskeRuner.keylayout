@@ -227,7 +227,7 @@
             <key code="47" output=":"/>
             <key code="48" output="&#x0009;"/>
             <!-- horizontal tabulation -->
-            <key code="49" action=" "/>
+            <key code="49" action="shiftspace"/>
             <!-- space -->
             <key code="50" output=">"/>
             <key code="51" output="&#x0008;"/>
@@ -1316,6 +1316,9 @@
             <when state="tildebelow" output=" ̰"/>
             <!-- added -->
         </action>
+        <action id="shiftspace">
+            <when state="none" output="᛬"/>
+        </action>
         <action id="#">
             <when state="none" output="#"/>
             <when state="specials" output="Ɛ"/>
@@ -2090,7 +2093,7 @@
             <!-- added -->
         </action>
         <action id="j">
-            <when state="none" output="ᛁ"/>
+            <when state="none" output="ᛃ"/>
             <when state="caron" output="ǰ"/>
             <!-- added -->
             <when state="circumflex" output="ĵ"/>
@@ -2442,7 +2445,7 @@
             <when state="acute" output="Ǿ"/>
         </action>
         <action id="å">
-            <when state="none" output="å"/>
+            <when state="none" output="ᚨ"/>
             <when state="acute" output="ǻ"/>
         </action>
         <action id="æ">
