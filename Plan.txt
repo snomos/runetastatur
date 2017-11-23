@@ -1,0 +1,87 @@
+Runer i Unicode:
+
+A - ᚨ ᚪ ᛅ ᛆ
+B - ᛒ ᛓ
+C - ᚳ ᛍ ᛣ ᛤ
+D - ᛑ ᛞ
+E - ᛂ ᛖ
+F - ᚠ
+G - ᚵ ᚷ ᚸ ᛄ
+H - ᚺ ᚻ ᚼ ᚽ
+I - ᛁ ᛜ ᛝ
+J - ᛃ
+K - ᚴ ᚲ
+L - ᛚ ᛛ
+M - ᛗ ᛘ ᛙ
+N - ᚾ ᚿ ᛀ
+O - ᚩ ᚬ ᚭ ᚮ ᛟ
+P - ᛈ ᛔ ᛕ
+Q - ᛩ
+R - ᚱ
+S - ᛊ ᛋ ᛌ
+T - ᛏ ᛐ
+U - ᚢ
+V - ᚡ
+W - ᚥ ᚹ
+X - ᛪ
+Y - ᚣ ᚤ ᛦ ᛧ ᛨ
+Z - ᛎ
+Æ - ᚫ
+Ø - ᚯ
+Å - 
+Þ - ᚦ 
+Ð - ᚧ
+Ŋ - ᚶ
+
+Ligaturar/digrafar:
+
+ON: ᚰ
+AL: ᛮ
+
+Uklassifiserte:
+ᛇ - runic letter iwaz eoh, u+16c7
+ᛉ - runic letter algiz eolhx, u+16c9
+ᛠ - runic letter ear, u+16e0
+ᛡ - runic letter ior, u+16e1
+ᛢ - runic letter cweorth, u+16e2
+ᛥ - runic letter stan, u+16e5
+ᛯ - runic letter tvimadur, u+16ef
+ᛰ - runic letter belgthor, u+16f0
+
+Norsk futhark frå slutten av 1200-talet, med tillegg:
+
+f u Þ o r k h n i a s t b m l y   g e d p æ ø c/z v
+ᚠ ᚢ ᚦ ᚮ ᛬ᚱ ᚴ ᚼ ᚿ ᛬ᛁ᛬ ᛆ᛬ ᛌ᛬ ᛐ ᛒ ᛘ ᛚ ᛦ   ᚵ ᛂ ᛬ ᛑ ᛔ ᛅ ᚯ ᛋ   ᚡ
+
+
+Eller alfabetisk:
+a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
+ᛆ ᛒ ᛋ ᛬ᛑ ᛂ ᛬ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛔ   :ᚱ ᛌ ᛐ ᚢ ᚡ     ᛦ ᛋ ᛅ ᚯ
+
+
+Oppsummering av etterreformatoriske runer (sjå kjelde lenger ned):
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
+ᛆ ᛒ ᛬ᛎ ᛬ᚦ ᛂ ᛬ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛔ ᚴ ᚱ ᛋ ᛏᛐ ᚢ ᚡ  ᛰ ᚤ ᛦ ᛅ ᚯ
+
+
+
+Om ein går attende til den yngre runerekka med tillegg, som den siste autentiske samanhengande runetradisjonen i Noreg, med små justeringar for behova i norsk i dag, skulle eit norsk runealfabet kunna sjå slik ut:
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
+ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘
+
+Å skulle kunna vera: ᛆᚮ, dvs ao, som både gjev typografisk meining (Å er eigentleg A + O ovanpå), og fonologisk meining - lang A har vorte AO i islandsk og vestlandske dialektar.
+Men helst skulle det då vera ein digraf som ser betre ut, noko i stil med ᚰ. Alternativt kunne det vera ᛆ med dynamisk prikk, dvs ᛆ͘. som òg gjev meining: prikk er brukt for mange nyare runar som er fonologisk nære eldre runer (jf ᛑ vs ᛐ, ᛔ vs ᛒ, ᚡ vs ᚠ, osb). Men den automatiske plasseringa er stygg, ein bør i så fall nytta eigne fontar der prikken blir plassert til venstre for staven, like over kvisten.
+
+Burde vera:
+ᛆ + ᷸ = ᛆ᷸
+᷸ = COMBINING DOT ABOVE LEFT, U+1DF8
+
+Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten ikkje finst i ein einaste font på systemet.
+
+
+Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
+
+Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling, University of Oslo, 2001
+http://urn.nb.no/URN:NBN:no-27534
