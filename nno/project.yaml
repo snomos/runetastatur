@@ -36,7 +36,7 @@ targets:
     provisioningProfileId: Test
     packageId: no.uit.giella.keyboards.nno
     bundleName: *bundleName
-    icon: images/nno-icon.png
+    icon: images/nno-runer.png
 
   osx:
     <<: *AppleID
