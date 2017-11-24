@@ -29,7 +29,7 @@ AM_CONDITIONAL([COMPILE_ALL], [test "x$enable_keyboards" = xall])
 AC_SUBST(ENABLED_KEYBOARDS, $enable_keyboards)
 
 AC_CONFIG_FILES([Makefile])
-AC_CONFIG_SUBDIRS([ ])
+AC_CONFIG_SUBDIRS([ nno ])
 AC_OUTPUT
 
 cat<<EOF

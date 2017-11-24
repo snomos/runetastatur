@@ -19,7 +19,7 @@
 TEMPLATENAME=keyboards
 
 # All languages that can be built
-ALL_LANGS= 
+ALL_LANGS= nno 
 
 # Languages that need to be bootstrapped
 NEW_LANGS=
