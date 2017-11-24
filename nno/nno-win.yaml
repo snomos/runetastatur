@@ -1,11 +1,10 @@
 ### Generated from nb-t-k0-windows-extended.xml on 2017-11-24 at 09:31.
-
-internalName: nb-t-k0-windows-extended
+internalName: nn-win
 
 displayNames:
-  nb: Norwegian with Sami
+  nb: Nynorsk
 
-locale: nb
+locale: nn
 
 modes:
   # default
