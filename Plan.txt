@@ -49,7 +49,7 @@ Uklassifiserte:
 ᛰ - runic letter belgthor, u+16f0
 
 
-Norsk futhark frå slutten av 1200-talet, med tillegg:
+Norsk futhark frå slutten av 1200-talet, med tillegg (eg har lagt inn mellomrom og ᛬ for å få bokstavar og runer til å stå beint under kvarandre):
 
 f u Þ o r k h n i a s t b m l y   g e d p æ ø c/z v
 ᚠ ᚢ ᚦ ᚮ ᛬ᚱ ᚴ ᚼ ᚿ ᛬ᛁ᛬ ᛆ᛬ ᛌ᛬ ᛐ ᛒ ᛘ ᛚ ᛦ   ᚵ ᛂ ᛬ ᛑ ᛔ ᛅ ᚯ ᛋ   ᚡ
@@ -103,6 +103,9 @@ Burde vera:
 
 Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten ikkje finst i ein einaste font på systemet.
 
+Det er mest i samsvar med utviklinga av middelalderrunene å la Å vera A + punkt, særleg fordi ᚯ allereie er i bruk som Ø.
+
+Dersom denne runerekkja / dette runealfabetet skulle bli teken i bruk, er det rimeleg at Å-runa etter kvart kjem inn i Unicode, og då løyser problemet seg sjølv. Forslaga over er altså berre førebelse løysingar til Å-runa kjem inn i Unicode (men det må skrivast tekst m.m. som viser at Å-runa er liv laga, og at det er bruk for ei slik rune).
 
 Alle andre runer enn dei som er relevante for å skriva norsk er tilgjengeleg via Skift-tasten. Det er difor mogleg å skriva alle runer som er definerte i Unicode.
 
@@ -123,3 +126,17 @@ Sjå òg:
 https://en.wikipedia.org/wiki/Runes
 
 Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna. Det er rimeleg å tru at Nordby er den beste referansen både når det gjeld det og andre skilnader mellom kjeldene.
+
+
+
+Sortering:
+
+Sorteringa bør fylgja den yngre futhorken, dvs:
+
+f u Þ o r k/q  h n i/j a s/c/z  t b m l y   g e d p æ ø v/w x å
+ᚠ ᚢ ᚦ ᚮ ᛬ᚱ ᚴ    ᚼ ᚿ  ᛁ   ᛆ᛬ ᛋ      ᛐ ᛒ ᛘ ᛚ ᛦ   ᚵ ᛂ ᛬ ᛑ ᛔ ᛅ ᚯ ᚡ   ᛰ ᛆ͘
+
+Tre ætter + tillegg.
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
+ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘
