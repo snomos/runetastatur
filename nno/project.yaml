@@ -14,7 +14,12 @@ email: feedback@divvun.no
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
-layouts: [nno]
+layouts:
+  - nno-mobile
+  - nno-win
+  - nno_Runr-macos
+  - nno_Runr-mobile
+  - nno_Runr-win
 
 version: 1.0
 build: 1
@@ -43,4 +48,4 @@ targets:
     appName: *bundleName
     version: 0.1.0
     url: "http://divvun.no"
-    uuid: "replace-with-real-uuid-one-for-each-language"
+    uuid: "3B1FD297-4992-4181-B434-4FA6619EE58D"
