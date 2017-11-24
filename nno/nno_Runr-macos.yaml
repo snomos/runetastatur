@@ -1,11 +1,11 @@
 ### Generated from nb-t-k0-osx-extended.xml on 2017-11-24 at 09:29.
-
-internalName: nb-t-k0-osx-extended
+internalName: nno_Runr
 
 displayNames:
-  nb: Norwegian Extended
+  nn: Nynorsk med runer
+  nn_Runr: Nynorsk med runer
 
-locale: nb
+locale: nn_Runr
 
 supportedTargets: [osx, x11, svg]
 
@@ -13,9 +13,9 @@ modes:
   # default
   iso-default: |
     < 1 2 3 4 5 6 7 8 9 0 + ´
-    q w e r t y u i o p å ¨
-    a s d f g h j k l ø æ @
-    ' z x c v b n m , . -
+    ᚴ ᚡ ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᛆ͘ ¨
+    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᛃ ᚴ ᛚ ᚯ ᛅ @
+    ' ᛋ ᛰ ᛌ ᚡ ᛒ ᚿ ᛘ , . -
   # shift+caps?
   iso-shift: |
     > ! " # $ % & / ( ) = ? `
@@ -52,6 +52,12 @@ modes:
     \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
     \u{1} \u{13} \u{4} \u{6} \u{7} \u{8} \u{A} \u{B} \u{C} ; ' \u{1C}
     0 \u{1A} \u{18} \u{3} \u{16} \u{2} \u{E} \u{D} , . /
+  # cmd
+  osx-cmd: |
+    < 1 2 3 4 5 6 7 8 9 0 + ´
+    q w e r t y u i o p å ¨
+    a s d f g h j k l ø æ @
+    ' z x c v b n m , . -
   # cmd+opt+caps?
   osx-cmd+alt: |
     ≤ © ™ £ € § \u{0} | [ ] ≈ ± `

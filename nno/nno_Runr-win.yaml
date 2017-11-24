@@ -13,9 +13,9 @@ modes:
   # default
   iso-default: |
     | 1 2 3 4 5 6 7 8 9 0 + \
-    q w e r t y u i o p å ¨
-    a s d f g h j k l ø æ '
-    < z x c v b n m , . -
+    ᚴ ᚡ ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᛆ͘ ¨
+    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᛃ ᚴ ᛚ ᚯ ᛅ '
+    < ᛋ ᛰ ᛌ ᚡ ᛒ ᚿ ᛘ , . -
   # shift
   iso-shift: |
     § ! " # ¤ % & / ( ) = ? `
