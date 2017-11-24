@@ -1,0 +1,15 @@
+Entry page for keyboard documentation specific to each language.
+The keyboards listed on this page are in an initial stage, and not ready for production use. Some of them are just experiments.
+
+The list of languages with a keyboard definition is:
+
+* [Kongo|kon/doc/index.html]
+* [Indoeuropean|ine/doc/index.html]
+* [Czech|ces/doc/index.html]
+* [Hakka Chinese|hak/doc/index.html]
+* [Lingala|lin/doc/index.html]
+* [Réunion Creole French|rcf/doc/index.html]
+* [Ingrian|izh/doc/index.html]
+* [Central Huasteca Nahuatl|nch/doc/index.html]
+* [Guarani|grn/doc/index.html]
+* [Low German|nds/doc/index.html]
