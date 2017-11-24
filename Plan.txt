@@ -48,6 +48,7 @@ Uklassifiserte:
 ᛯ - runic letter tvimadur, u+16ef
 ᛰ - runic letter belgthor, u+16f0
 
+
 Norsk futhark frå slutten av 1200-talet, med tillegg:
 
 f u Þ o r k h n i a s t b m l y   g e d p æ ø c/z v
@@ -71,8 +72,30 @@ Om ein går attende til den yngre runerekka med tillegg, som den siste autentisk
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘
 
-Å skulle kunna vera: ᛆᚮ, dvs ao, som både gjev typografisk meining (Å er eigentleg A + O ovanpå), og fonologisk meining - lang A har vorte AO i islandsk og vestlandske dialektar.
-Men helst skulle det då vera ein digraf som ser betre ut, noko i stil med ᚰ. Alternativt kunne det vera ᛆ med dynamisk prikk, dvs ᛆ͘. som òg gjev meining: prikk er brukt for mange nyare runar som er fonologisk nære eldre runer (jf ᛑ vs ᛐ, ᛔ vs ᛒ, ᚡ vs ᚠ, osb). Men den automatiske plasseringa er stygg, ein bør i så fall nytta eigne fontar der prikken blir plassert til venstre for staven, like over kvisten.
+Merknader om nokre runer, i hovudsak om skilnader mellom (sein)middelalderrunene og dei etterreformatoriske runene, og valet mitt for den moderne runerekka; nokre merknader gjeld òg plasseringa på tastaturet:
+
+C: det er ikkje bruk for C i norsk, og namn bør anten tilpassast eller skrivast med latinske bokstavar. C er difor lik S, sjølv om ein kan få kortrune for S via Skift-S.
+
+D: eg har halde meg til dei yngre runene, og ikkje til den etterreformatoriske gjenbruken av Thorn. Thorn er tilgjengeleg via Skift-D.
+
+J: = I
+
+Q: = K, sjå elles merknad til C.
+
+S: her har eg nytta fullrune-S, og ikkje kortvarianten. Dette er mest av omsyn til at det er lettare å lesa. Kortvarianten kan ein få via Skift-S.
+
+T: eg har halde meg til den vanlege bruken i dei yngre runene, som òg er nytta etterreformatorisk til saman med varianten med kvist på begge sider.
+
+W: = V, sjå merknad til C.
+
+X: eg har lagt inn runen som er nytta etterreformatorisk, men i utgangspunktet trengst ikkje x, sjå merknad til C.
+
+Y: eg har nytta runen frå den yngre runerekkja. Den etterreformatoriske varianten er tilgjengeleg via Skift-Y.
+
+Z: = S, sjå merknad til C. Etterreformatorisk Z-rune tilgjengeleg via Skift-Z.
+
+Å: skulle kunna vera: ᛆᚮ, dvs ao, som både gjev typografisk meining (Å er eigentleg A + O ovanpå), og fonologisk meining - lang A har vorte AO i islandsk og vestlandske dialektar.
+Men helst skulle det då vera ein digraf som ser betre ut, noko i stil med ᚰ. Alternativt kunne det vera ᛆ med dynamisk prikk, dvs ᛆ͘. som òg gjev meining: prikk er brukt for mange nyare runer som er fonologisk nære eldre runer (jf ᛑ vs ᛐ, ᛔ vs ᛒ, ᚡ vs ᚠ, osb). Men den automatiske plasseringa er stygg, ein bør i så fall nytta eigne fontar der prikken blir plassert til venstre for staven, like under kvisten, slik at plasseringa av prikken/punktet harmonerer med tilsvarande punkt i andre runer.
 
 Burde vera:
 ᛆ + ᷸ = ᛆ᷸
@@ -81,7 +104,22 @@ Burde vera:
 Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten ikkje finst i ein einaste font på systemet.
 
 
+Alle andre runer enn dei som er relevante for å skriva norsk er tilgjengeleg via Skift-tasten. Det er difor mogleg å skriva alle runer som er definerte i Unicode.
+
+Plasseringa av runene er slik at dei ligg på dei same tastane som dei norske bokstavane med tilsvarande lydverdi.
+
+
 Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
 
 Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling, University of Oslo, 2001
 http://urn.nb.no/URN:NBN:no-27534
+
+Sjå òg:
+https://en.wikipedia.org/wiki/Runic_(Unicode_block)
+
+Merknaden der om Belgthor stemmer ikkje med det Nordby skriv om runer for X. I fylgje Nordby er Belgthor den vanlegaste etterreformatoriske runen for X.
+
+Sjå òg:
+https://en.wikipedia.org/wiki/Runes
+
+Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna. Det er rimeleg å tru at Nordby er den beste referansen både når det gjeld det og andre skilnader mellom kjeldene.
