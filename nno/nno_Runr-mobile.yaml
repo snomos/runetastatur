@@ -7,6 +7,8 @@ displayNames:
 
 locale: nn_Runr
 
+supportedTargets: [ios, android]
+
 modes:
   mobile-default: |
     ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᛆ͘

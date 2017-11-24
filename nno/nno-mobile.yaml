@@ -1,10 +1,12 @@
-internalName: nno_keyboards
+internalName: nno
 
 displayNames:
   nn: Ekte norsk
   en: Norwegian Nynorsk
 
 locale: nn
+
+supportedTargets: [ios, android]
 
 modes:
   mobile-default: |

@@ -6,6 +6,8 @@ displayNames:
 
 locale: nn
 
+supportedTargets: [win, x11, svg]
+
 modes:
   # default
   iso-default: |
