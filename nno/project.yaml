@@ -15,10 +15,10 @@ copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
 layouts:
-  - nno-mobile
+  - nno-mob
   - nno-win
-  - nno_Runr-macos
-  - nno_Runr-mobile
+  - nno_Runr-mac
+  - nno_Runr-mob
   - nno_Runr-win
 
 version: 1.0
