@@ -11,16 +11,16 @@ supportedTargets: [ios, android]
 
 modes:
   mobile-default: |
-    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᛆ͘
+    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
     ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
         ᚡ ᛒ ᚿ ᛘ ᛅ
   mobile-shift: |
-    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᛆ͘
+    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
     ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
         ᚡ ᛒ ᚿ ᛘ ᛅ
 
 longpress:
-  ᛆ: ᚨ ᚪ ᛅ
+  ᛆ: ᚨ ᚭ ᚪ ᛅ
   ᛒ: ᛓ
   ᛑ: ᛞ ᚦ ᚧ
   ᛂ: ᛖ
