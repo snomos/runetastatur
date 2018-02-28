@@ -1,4 +1,4 @@
-Runer i Unicode:
+Liste over runer i Unicode, ordna etter lydverdi/motsvarande latinsk bokstav:
 
 A - ᚨ ᚭ ᚪ ᛅ ᛆ
 B - ᛒ ᛓ
@@ -23,7 +23,7 @@ T - ᛏ ᛐ
 U - ᚢ
 V - ᚡ
 W - ᚥ ᚹ
-X - ᛪ
+X - ᛪ ᛰ
 Y - ᚣ ᚤ ᛦ ᛧ ᛨ
 Z - ᛎ
 Æ - ᚫ
@@ -46,7 +46,6 @@ Uklassifiserte:
 ᛢ - runic letter cweorth, u+16e2
 ᛥ - runic letter stan, u+16e5
 ᛯ - runic letter tvimadur, u+16ef
-ᛰ - runic letter belgthor, u+16f0
 
 
 Norsk futhark frå slutten av 1200-talet, med tillegg (eg har lagt inn mellomrom og ᛬ for å få bokstavar og runer til å stå beint under kvarandre):
@@ -175,7 +174,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 Forslag til norske runenamn (basert på autentiske namn der slike finst eller høver):
 ᚠ - Fe
 ᚢ - Ur
-ᚦ - Tuss (norrønt: Thurs; nanmnet Thorn er anglosaksisk(?))
+ᚦ - Tuss (norrønt: Thurs; namnet Thorn er anglosaksisk(?))
 ᚮ - Odel*
 ᚱ - Reid
 ᚴ - Kaun
