@@ -1,6 +1,6 @@
 Runer i Unicode:
 
-A - ᚨ ᚪ ᛅ ᛆ
+A - ᚨ ᚭ ᚪ ᛅ ᛆ
 B - ᛒ ᛓ
 C - ᚳ ᛍ ᛣ ᛤ
 D - ᛑ ᛞ
@@ -70,7 +70,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 Om ein går attende til den yngre runerekka med tillegg, som den siste autentiske samanhengande runetradisjonen i Noreg, med små justeringar for behova i norsk i dag, skulle eit norsk runealfabet kunna sjå slik ut:
 
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘
+ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘/ᚨ
 
 Merknader om nokre runer, i hovudsak om skilnader mellom (sein)middelalderrunene og dei etterreformatoriske runene, og valet mitt for den moderne runerekka; nokre merknader gjeld òg plasseringa på tastaturet:
 
@@ -94,18 +94,26 @@ Y: eg har nytta runen frå den yngre runerekkja. Den etterreformatoriske variant
 
 Z: = S, sjå merknad til C. Etterreformatorisk Z-rune tilgjengeleg via Skift-Z.
 
-Å: skulle kunna vera: ᛆᚮ, dvs ao, som både gjev typografisk meining (Å er eigentleg A + O ovanpå), og fonologisk meining - lang A har vorte AO i islandsk og vestlandske dialektar.
-Men helst skulle det då vera ein digraf som ser betre ut, noko i stil med ᚰ. Alternativt kunne det vera ᛆ med dynamisk prikk, dvs ᛆ͘. som òg gjev meining: prikk er brukt for mange nyare runer som er fonologisk nære eldre runer (jf ᛑ vs ᛐ, ᛔ vs ᛒ, ᚡ vs ᚠ, osb). Men den automatiske plasseringa er stygg, ein bør i så fall nytta eigne fontar der prikken blir plassert til venstre for staven, like under kvisten, slik at plasseringa av prikken/punktet harmonerer med tilsvarande punkt i andre runer.
+Å: skulle kunna vera: ᛆᚮ, dvs ao, som både gjev typografisk meining (Å er eigentleg A + O ovanpå), og fonologisk meining - lang A har vorte AO i islandsk og vestlandske dialektar. Men helst skulle det då vera ein digraf som ser betre ut, noko i stil med ᚰ. 
 
-Burde vera:
+Alternativt kunne det vera ᛆ (A) med dynamisk prikk, dvs ᛆ͘. som òg gjev meining: prikk er brukt for mange nyare runer som er fonologisk nære eldre runer (jf ᛑ vs ᛐ, ᛔ vs ᛒ, ᚡ vs ᚠ, osb). Men den automatiske plasseringa er stygg, ein bør i så fall nytta eigne fontar der prikken blir plassert til venstre for staven, like under kvisten, slik at plasseringa av prikken/punktet harmonerer med tilsvarande punkt i andre runer. Det burde vera:
+
 ᛆ + ᷸ = ᛆ᷸
 ᷸ = COMBINING DOT ABOVE LEFT, U+1DF8
 
 Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten ikkje finst i ein einaste font på systemet.
 
-Det er mest i samsvar med utviklinga av middelalderrunene å la Å vera A + punkt, særleg fordi ᚯ allereie er i bruk som Ø.
+Eit tredje alternativ er å nytta ᚨ, som jo eigentleg er ein A-rune (Ansuz), som i norrønt går over til å tyda á/ó, som i Óss/Áss. Lang A (Á) svarar til Å i moderne norsk, dvs Å som i Åsgard. Hovudargumentet mot å nytta denne runen for Å er at det ikkje finst dekning for slik bruk i middelaldermaterialet.
 
-Dersom denne runerekkja / dette runealfabetet skulle bli teken i bruk, er det rimeleg at Å-runa etter kvart kjem inn i Unicode, og då løyser problemet seg sjølv. Forslaga over er altså berre førebelse løysingar til Å-runa kjem inn i Unicode (men det må skrivast tekst m.m. som viser at Å-runa er liv laga, og at det er bruk for ei slik rune).
+Eit fjerde alternativ er å nytta den yngre varianten av Áss-runen: ᚭ. I og med at den er yngre, svarar det òg betre til tanken om å byggja på den yngste, autentiske tradisjonen.
+
+Av desse fire alternativa er det det siste som er det beste:
+* nyttar ein eksisterande rune i Unicode (ikkje problem med vising, jf alternativ to)
+* nyttar ein rune som svarar til den lyden som seinare utvikla seg til Å
+* har ikkje fått andre lydverdiar og annan bruk seinare (vart ikkje nytta seinare)
+
+Innvendinga at han ikkje høyrer til runeinventaret i middelalderrunene er ikkje godt nok til å forkasta det alternativet framfor dei andre alternativa, som anten viser til ei enno eldre form, eller som nyttar kombinasjonar som det ikkje eigentleg er grunnlag for, eller som er teknisk uhaldbare.
+
 
 Alle andre runer enn dei som er relevante for å skriva norsk er tilgjengeleg via Skift-tasten. Det er difor mogleg å skriva alle runer som er definerte i Unicode.
 
@@ -127,16 +135,73 @@ https://en.wikipedia.org/wiki/Runes
 
 Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna. Det er rimeleg å tru at Nordby er den beste referansen både når det gjeld det og andre skilnader mellom kjeldene.
 
+Ei anna relativt grundig kjelde er: http://www.arild-hauge.com/eindex.htm
+* særleg sida om «THE ELDER FUTHARK»
+* og sida om «THE NORWEGIAN RUNES»
+
 
 
 Sortering:
 
 Sorteringa bør fylgja den yngre futhorken, dvs:
 
-f u Þ o r k/q  h n i/j a s/c/z  t b m l y   g e d p æ ø v/w x å
-ᚠ ᚢ ᚦ ᚮ ᛬ᚱ ᚴ    ᚼ ᚿ  ᛁ   ᛆ᛬ ᛋ      ᛐ ᛒ ᛘ ᛚ ᛦ   ᚵ ᛂ ᛬ ᛑ ᛔ ᛅ ᚯ ᚡ   ᛰ ᛆ͘
+Freyætta:
+f u Þ o r k/q
+ᚠ ᚢ ᚦ ᚮ ᛬ᚱ ᚴ
 
-Tre ætter + tillegg.
+Haglætta:
+h n i/j a s/c/z
+ᚼ ᚿ  ᛁ   ᛆ᛬ ᛋ
+
+Tyætta:
+t b m l y
+ᛐ ᛒ ᛘ ᛚ ᛦ   
+
+Nyætta:
+g e d p æ ø v/w x å
+ᚵ ᛂ ᛬ᛑ ᛬ᛔ ᛅ ᚯ ᚡ   ᛰ ᚭ
+
+Tre ætter + tillegg. Sjå Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
+
+
+
+Som runealfabet:
 
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘
+ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᚭ
+
+
+
+Forslag til norske runenamn (basert på autentiske namn der slike finst eller høver):
+ᚠ - Fe
+ᚢ - Ur
+ᚦ - Tuss (norrønt: Thurs; nanmnet Thorn er anglosaksisk(?))
+ᚮ - Odel*
+ᚱ - Reid
+ᚴ - Kaun
+
+ᚼ - Hagl
+ᚿ - Naud
+ᛁ - Is
+ᛆ - Adel†
+ᛋ - Sol
+
+ᛐ - Ty
+ᛒ - Bjørk (Bjarkan)
+ᛘ - Mann
+ᛚ - Lauk
+ᛦ - Yr
+
+ᚵ - Gåve*
+ᛂ - Elg*
+ᛑ - Dag*
+ᛔ - Pigg†
+ᛅ - Ætt†
+ᚯ - Øyk*
+ᚡ - Ven*
+ᛰ - Belgtor
+ᚭ - Ås
+
+Namn merkte med * er gamle namn som vart nytta på runer som seinare gjekk or bruk, men som her er tekne fram att for nye runer med dei same lydverdiane.
+
+Namn merkte med † er heilt nye namn (mine forslag).
