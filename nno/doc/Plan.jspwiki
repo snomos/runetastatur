@@ -81,7 +81,7 @@ Om ein går attende til den yngre runerekka med tillegg, som den siste autentisk
 
 {{{
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᛆᚮ/ᛆ͘/ᚨ/ᚭ
+ᛆ ᛒ ᛬ᛌ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛌ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛌ ᛅ ᚯ ᛆᚮ/ᛆ͘/ᚨ/ᚭ
 }}}
 
 !!Merknader
@@ -173,7 +173,7 @@ f u Þ o r k/q
 Haglætta:
 {{{
 h n i/j a s/c/z
-ᚼ ᚿ  ᛁ   ᛆ᛬ ᛋ
+ᚼ ᚿ  ᛁ   ᛆ᛬ ᛌ
 }}}
 
 Tyætta:
@@ -182,10 +182,10 @@ t b m l y
 ᛐ ᛒ ᛘ ᛚ ᛦ   
 }}}
 
-Nyætta:
+Gåveætta:
 {{{
-g e d p æ ø v/w x å
-ᚵ ᛂ ᛬ᛑ ᛬ᛔ ᛅ ᚯ ᚡ   ᛰ ᚭ
+g e d p æ ø v/w (x) å
+ᚵ ᛂ ᛬ᛑ ᛬ᛔ ᛅ ᚯ ᚡ   (ᛰ) ᚭ
 }}}
 
 Tre ætter + tillegg. Sjå Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
@@ -195,7 +195,7 @@ Tre ætter + tillegg. Sjå Nordby s. 29 («Den vanlige norske futharken med till
 Alternativt som runealfabet:
 {{{
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᚭ
+ᛆ ᛒ ᛬ᛌ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛌ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛌ ᛅ ᚯ ᚭ
 }}}
 
 !!!Runenamn
@@ -214,7 +214,7 @@ Forslag til norske runenamn (basert på autentiske namn der slike finst eller h�
 | ᚿ | Naud
 | ᛁ | Is
 | ᛆ | Adel†
-| ᛋ | Sol
+| ᛌ | Sol
 
 || Tyætta
 | ᛐ | Ty
@@ -223,7 +223,7 @@ Forslag til norske runenamn (basert på autentiske namn der slike finst eller h�
 | ᛚ | Lauk
 | ᛦ | Yr
 
-|| Nyætta
+|| Gåveætta
 | ᚵ | Gåve*
 | ᛂ | Elg*
 | ᛑ | Dag*
@@ -231,7 +231,6 @@ Forslag til norske runenamn (basert på autentiske namn der slike finst eller h�
 | ᛅ | Ætt†
 | ᚯ | Øyk*
 | ᚡ | Ven*
-| ᛰ | Belgtor
 | ᚭ | Ås
 
 Namn merkte med * er gamle namn som vart nytta på runer som seinare gjekk or bruk, men som her er tekne fram att for nye runer med dei same lydverdiane.
